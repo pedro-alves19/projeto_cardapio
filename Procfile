@@ -1,1 +1,1 @@
-web: gunicorn templates.wsgi
+web: gunicorn Restaurant_management_system.wsgi
